@@ -50,4 +50,4 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: build-artifacts
-          path: build/libs/
+          path: versions/1.8.9-forge/build/libs/
