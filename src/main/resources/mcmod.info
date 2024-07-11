@@ -2,16 +2,16 @@
   {
     "modid": "${id}",
     "name": "${name}",
-    "description": "",
+    "description": "A simple mixin mod to allow setting a custom OptiFine cape server.",
     "version": "${version}",
     "mcversion": "${mcVersionStr}",
     "url": "",
     "updateUrl": "",
     "authorList": [
-      "Your Name"
+      "nathm"
     ],
     "credits": "",
-    "logoFile": "",
+    "logoFile": "icon.png",
     "screenshots": [],
     "dependencies": []
   }
