@@ -2,12 +2,12 @@
 
 ![Powered by OneConfig](https://polyfrost.org/media/branding/badges/badge_1.svg)
 
-A simple mixin mod to allow setting a custom OptiFine cape server. Inspired by [Mixmetica](https://github.com/MicrocontrollersDev/Mixmetica)
+A simple Forge 1.8.9 mixin mod to allow setting a custom OptiFine cape server. Inspired by [Mixmetica](https://github.com/MicrocontrollersDev/Mixmetica)
 
 ## Usage
-1. Setup a cape server at http://url/capes/[username].png
-2. Set that cape server in the config via OneConfig as http://url/capes/
-3. ???
+1. Setup a cape server at http://url/[username].png
+2. Set that cape server in the config via OneConfig as http://url/
+3. ?????
 4. Profit
 
 
