@@ -1,21 +1,15 @@
-# OneConfigExampleMod
+# OptiCustomCapes
 
 ![Powered by OneConfig](https://polyfrost.org/media/branding/badges/badge_1.svg)
-![Compact Powered by OneConfig](https://polyfrost.org/media/branding/badges/badge_2.svg)
-![Minimal Powered by OneConfig](https://polyfrost.org/media/branding/badges/badge_3.svg)
-![Minimal Compact Powered by OneConfig](https://polyfrost.org/media/branding/badges/badge_4.svg)
 
-Example mod implementing OneConfig.
+A simple Forge 1.8.9 mixin mod to allow setting a custom OptiFine cape server. Inspired by [Mixmetica](https://github.com/MicrocontrollersDev/Mixmetica)
 
-## How to use
+## Usage
+1. Create a web server to serve cape textures at http://url/[username].png
+2. Set that server in the config via OneConfig as http://url/
+3. ?????
+4. Profit
 
-- Copy the template either by using GitHub's "Use this template" feature or downloading the repo manually.
-- **Remove the license named "LICENSE-TEMPLATE" and choose a new one.**
-- Refactor the template (specifically, the modid, version and name in the gradle.properties and most of the class names)
-  to a different name.
-- Have fun modding! :D
 
-## Need to update to a newer commit of this template?
-
-Check out these update guides:
-- [Updating to commit `301a6ca`](update-to-301a6ca.md) (most recent update)
+### Note
+Some code in this mod is based off of [Mixmetica](https://github.com/MicrocontrollersDev/Mixmetica) under LGPL-3.0. All code in this mod is also licensed under LGPL-3.0.
